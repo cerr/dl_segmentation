@@ -1,2 +1,8 @@
-# dl_segmentation
-Wrappers for deep-learning based segmentation models and network wrights
+# Deep-learning based segmentation models
+This repository consists of wrappers for deep-learning based segmentation models and network weights. Jupyter notebook is provided for each segmentation model to describe setting-up the environment and calling the wrapper. Also, Singularity container is available for each model which is runnable form CERR. Please email aptea@mskcc.org, locastre@mskcc.org or iyera@mskcc.org to request a download link for container.
+
+## License
+The codebase for implementations of models uses the GNU-GPL copyleft license (https://www.gnu.org/licenses/lgpl-3.0.en.html) to allow open-source distribution with additional restrictions. The license retains the ability to propagate any changes to the codebase back to the open-source community along with the following restrictions (i) No Clinical Use, (ii) No Commercial Use, and (iii) Dual Licensing which reserve the right to diverge and/or modify and/or expand the model implementations library to have a closed source/proprietary version along with the open source version in future. We would like to highlight that the library of implementations presented in this work is not approved by the U.S. Food and Drug Administration and should not be used to make clinical decisions for treating patients. The library merely provides implementations of the developed models, whereas the creators of models retain the copyright to their work.
+
+## Citation
+Aditya P. Apte, Aditi Iyer, Maria Thor, Rutu Pandya, Rabia Haq, Jue Jiang, Eve LoCastro, Amita Shukla-Dave, Nishanth Sasankan, Ying Xiao, Yu-Chi Hu, Sharif Elguindi, Harini Veeraraghavan, Jung Hun Oh, Andrew Jackson, Joseph O. Deasy, Library of deep-learning image segmentation and outcomes model-implementations, Physica Medica, Volume 73, 2020, Pages 190-196, ISSN 1120-1797, https://doi.org/10.1016/j.ejmp.2020.04.011.
