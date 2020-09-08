@@ -1,0 +1,4 @@
+[submodule "CT_SwallowingAndChewing_DeepLabV3"]
+	path = CT_SwallowingAndChewing_DeepLabV3
+	url = https://github.com/aditiiyer/CT_SwallowingAndChewing_DeepLabV3
+	branch = CT_SwallowingAndChewing_DeepLabV3
